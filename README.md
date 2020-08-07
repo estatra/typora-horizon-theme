@@ -1,7 +1,7 @@
 ![screenshot](https://github.com/estatra/typora-notes-dark-theme/blob/master/screenshot.png)
 
 # Horizon theme for Typora
-A Horizon theme inspired Arnaud de Surirey' [Notes dark theme for Typora](https://github.com/adesurirey/typora-notes-dark-theme).
+A Horizon theme inspired by Arnaud de Surirey' [Notes dark theme for Typora](https://github.com/adesurirey/typora-notes-dark-theme).
 
 Horizon original work by [jolaleye](https://github.com/jolaleye). [A Visual Studio Code theme](https://github.com/jolaleye/horizon-theme-vscode).
 
