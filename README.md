@@ -19,7 +19,3 @@ Horizon original work by [jolaleye](https://github.com/jolaleye). [A Visual Stud
 - Download the [zipped project package](https://github.com/estatra/typora-horizon-theme/archive/master.zip).
 - Copy the `horizon.css` file and `horizon` folder to your Typora theme library.
 - Launch or restart Typora and choose `Horizon` from the theme menu.
-
-<h6 align="center">
-  Made with :heart: from :brazil:!
-</h6>
